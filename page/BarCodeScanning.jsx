@@ -1,7 +1,3 @@
-// Step 1: Install required packages
-// Run this command in your terminal:
-// expo install expo-camera
-
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
 import { Camera, CameraView } from 'expo-camera';

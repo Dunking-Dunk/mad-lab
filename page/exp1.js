@@ -1,4 +1,3 @@
-// app/exp1.js
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet, Alert } from 'react-native';
 import { useRouter } from 'expo-router';
@@ -21,7 +20,6 @@ export default function Exp1() {
 
   return (
     <View style={styles.container}>
-
       
       <Text style={styles.expTitle}>Exp1 - hursun</Text>
       <Text style={styles.title}>Login</Text>

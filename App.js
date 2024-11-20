@@ -64,7 +64,7 @@ function HomeScreen({ navigation }) {
 
       <TouchableOpacity
         style={styles.button}
-        onPress={() => navigation.navigate('Screen5')}
+        onPress={() => navigation.navigate('Screen2')}
       >
         <Text style={styles.buttonText}>Image View</Text>
       </TouchableOpacity>

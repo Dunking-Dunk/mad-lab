@@ -1,4 +1,4 @@
-// app/exp4.js
+
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet, FlatList } from 'react-native';
 
